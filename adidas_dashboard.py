@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 
 
 # reading the data 
-df = pd.read_excel(r'C:\Users\karna\OneDrive\Documents\Streamlit\Adidas Dashboard\Adidas.xlsx')
+df = pd.read_excel(r"Adidas.xlsx")
 
 st.set_page_config(page_title="Adidas Dashboard",
                    layout="wide")
