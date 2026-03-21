@@ -14,7 +14,7 @@ st.set_page_config(page_title="Adidas Dashboard",
 
 st.markdown('<style>div.block-container{padding-top:1rem;}</style>', unsafe_allow_html=True)
 
-image = Image.open(r"download.png")
+image = Image.open("download.png")
 
 col1, col2 = st.columns([0.1, 0.8])
 with col1:
