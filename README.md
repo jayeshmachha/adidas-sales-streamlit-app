@@ -77,18 +77,6 @@ The app will open in your browser at `http://localhost:8501`
 
 ---
 
-## 📦 Requirements
-
-Create a `requirements.txt` with:
-
-```
-streamlit
-pandas
-plotly
-openpyxl
-Pillow
-```
-
 ---
 
 ## 📁 Dataset
